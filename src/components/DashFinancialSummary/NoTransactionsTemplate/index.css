@@ -1,0 +1,15 @@
+.no-transaction {
+    width: 100%;
+    height: max-content;
+}
+
+.no-transaction>img {
+    width: 100%;
+}
+
+.no-transaction>h2 {
+    color: var(--color-grey-3);
+    font-size: var(--font-title-2);
+    font-weight: 700;
+    margin-bottom: 16px;
+}

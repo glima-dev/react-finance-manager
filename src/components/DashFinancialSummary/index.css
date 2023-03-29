@@ -1,0 +1,15 @@
+.section-summary {
+    width: 100%;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 30px;
+}
+
+.summary-top-wrap>h2 {
+    font-size: var(--font-title-3);
+    font-weight: 700;
+    color: var(--color-grey-4);
+    margin-bottom: 8px;
+}

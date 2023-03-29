@@ -1,0 +1,22 @@
+.left-section {
+    width: 100%;
+    height: max-content;
+}
+
+.left-section>img {
+    width: 140px;
+}
+
+.left-section>h1 {
+    font-size: var(--font-title-1);
+    font-weight: 800;
+    color: var(--color-white);
+    margin-top: 30px;
+}
+
+.left-section>p {
+    font-size: var(--font-title-3);
+    font-weight: 800;
+    color: var(--color-white);
+    margin: 28px 0 32px;
+}
